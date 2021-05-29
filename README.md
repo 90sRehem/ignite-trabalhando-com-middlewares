@@ -1,6 +1,6 @@
 # Desafio 2 do Ignite Trilha NodeJS
 
-<img alt="Ignite" src="./assets/capa_ignite.png" />
+<img alt="Ignite" src="src/assets/capa_ignite.png" />
 
 <h3 align="center">
   Desafio 02: Trabalhando com Middlewares
@@ -81,7 +81,7 @@ yarn dev
 ```
 
 <p align="center">
-  <img src="./assets/yarn_test.jpg">
+  <img src="src/assets/yarn_test.jpg">
 </p>
 
 ### Template da aplicação
@@ -94,7 +94,7 @@ O template pode ser encontrado na seguinte url: **[Acessar Template](https://git
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
 
 <p align="center">
-  <img  src="./assets/code_example.jpg">
+  <img  src="src/assets/code_example.jpg">
 </p>
 
 ### Middlewares da aplicação (Instruções)
